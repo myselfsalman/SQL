@@ -8,3 +8,6 @@ ID INT PRIMARY KEY,
 NAME VARCHAR(40),
 ROLL INT,
 AGE INT);
+
+drop a database:
+DROP DATABASE crud;
