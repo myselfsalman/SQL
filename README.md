@@ -39,6 +39,15 @@ SELECT * FROM STUDENT WHERE MARKS > 80 AND CITY = "Mumbai";
 Here, we used AND for multiple condition in the query of where condition
 
 
+Now, Order By
+for order by, we use ascending and descending keywords.
+they are:
+ASC
+DESC
+
+SELECT * FORM STUDENT ORDER BY COLUMN NAME ASCENDING OR DESCENDING;
+
+
 
 BETWEEN, IN, NOT IN
 THESE THREEE OPERATOR USED FOR SEARCHING DATA IN QUEARY
