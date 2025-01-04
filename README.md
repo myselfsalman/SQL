@@ -25,3 +25,15 @@ so i need only the unique cities.
 then i can use DISTINCT KEYWOD.
 HOW?
 SELECT DISTINCT CITY FROM TABLENAME;
+
+
+now, WHERE CLAUSE
+WHERE CONDITION.
+
+SELECT * FROM STUDENT WHERE MARKS > 80;
+SELECT * FROM STUDENT WHERE CITY = "Mumbai";
+
+Now, we can use where clasue or condition for multiple condition in a query
+SELECT * FROM STUDENT WHERE MARKS > 80 AND CITY = "Mumbai";
+
+Here, we used AND for multiple condition in the query of where condition
