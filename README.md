@@ -3,11 +3,12 @@ CREATE DATABASE SALMAN;
 
 USE SALMAN;
 
-CREATE TABLE TABLE1 VALUES(
-ID INT PRIMARY KEY,
-NAME VARCHAR(40),
-ROLL INT,
-AGE INT);
+CREATE TABLE table_name (
+    column1 datatype constraint,
+    column2 datatype constraint,
+    ...
+);
+
 
 drop a database:
 DROP DATABASE crud;
