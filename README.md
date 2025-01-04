@@ -37,3 +37,12 @@ Now, we can use where clasue or condition for multiple condition in a query
 SELECT * FROM STUDENT WHERE MARKS > 80 AND CITY = "Mumbai";
 
 Here, we used AND for multiple condition in the query of where condition
+
+
+
+BETWEEN, IN, NOT IN
+THESE THREEE OPERATOR USED FOR SEARCHING DATA IN QUEARY
+LIKE:
+
+
+SELECT * FROM STUDENT WHERE MARKS BETWEEN 80 AND 90; HERE, BOTH MARKS AND INSIDE MARKS ARE ADDED.
