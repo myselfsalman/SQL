@@ -76,3 +76,9 @@ group by and order by er por obviously column name add hobe.
 order by sober last e
 group by order by er age.
 ek ta query te jodi ekadikh column ke query kora hoy tahole tader maj e comma boshbe.
+
+
+where clause er moto ekta clause holo Having
+normally where er por group by use korte hoy
+but having er khetre group by er por having use korte hoy.
+2 ta clause e condition add kore
