@@ -104,3 +104,7 @@ SET column1 = value1,
 WHERE condition;
 
 
+DELETE FROM TABLE NAME
+WHERE MARKS>40;
+
+
