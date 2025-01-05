@@ -82,3 +82,6 @@ where clause er moto ekta clause holo Having
 normally where er por group by use korte hoy
 but having er khetre group by er por having use korte hoy.
 2 ta clause e condition add kore
+
+
+mainly having clause holo group er upor condition add kora.
