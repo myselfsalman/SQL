@@ -85,3 +85,14 @@ but having er khetre group by er por having use korte hoy.
 
 
 mainly having clause holo group er upor condition add kora.
+
+general order: 
+![image](https://github.com/user-attachments/assets/08913593-dd85-49e2-b1ba-403157e73dd0)
+
+select column name
+where condition
+having condition
+from table name
+group by columns
+order by columns
+
