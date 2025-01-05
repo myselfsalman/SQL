@@ -69,3 +69,10 @@ max()
 min()
 sum()
 avg()
+
+
+aggregate functions er age always comma use korte hobei hobe.
+group by and order by er por obviously column name add hobe.
+order by sober last e
+group by order by er age.
+ek ta query te jodi ekadikh column ke query kora hoy tahole tader maj e comma boshbe.
